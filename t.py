@@ -1,0 +1,1 @@
+# Django project called Dashbord, this is the project link: http://127.0.0.1:8000
